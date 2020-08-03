@@ -13,3 +13,10 @@ Learning HTML & CSS
     git remote add origin git@github.com:alexpchin/<reponame>.git
     git push -u origin master
 
+## Create an HTML Template
+    <!Doctype html>
+    <head><title>HTML Template</title></head>
+    <body>
+    <h1>Head</h1>
+    </body>
+    </html>
